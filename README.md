@@ -1,6 +1,6 @@
 
 
-<p align="center"><img src="https://img.shields.io/badge/MADE%20IN BANGLADESHI-SPAMMAR AND PROGRAMMER-YOUR REAL BAP-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+<p align="center"><img src="https://img.shields.io/badge/MADE%20IN BANGLADESHI-SPAMMAR AND PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
  
 <h3 align="center">
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
@@ -17,7 +17,7 @@
  
  -𝐓𝐄𝐀𝐌:-🔰GAJA KHOR☣️VOICE GANG☣️
  
- -𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏:-+8801879594529(wa.me/+8801879594529/) 𝐴𝑁𝑌 𝑃𝑅𝑂𝐵𝐿𝐸𝑀 𝑀𝐸𝑆𝑆𝐸𝐺𝐸 𝑀𝐸 𝑂𝑁𝐿𝑌 [𝑇𝐸𝑋𝑇]
+ -𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏:-+8801879594529 𝐴𝑁𝑌 𝑃𝑅𝑂𝐵𝐿𝐸𝑀 𝑀𝐸𝑆𝑆𝐸𝐺𝐸 𝑀𝐸 𝑂𝑁𝐿𝑌 [𝑇𝐸𝑋𝑇]
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
@@ -44,9 +44,9 @@
 
 <p align="left">
 
-<a href="https://twitter.com/zebra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zebra" height="30" width="40" /></a>
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zebra" height="30" width="40" /></a>
 
-<a href="https://fb.comhttps://www.facebook.com/profile.php?id=100062089751951" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100062089751951" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100062089751951" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100062089751951" height="30" width="40" /></a>
 
 <a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dark_lover2837" height="30" width="40" /></a>
 
